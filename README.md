@@ -1,7 +1,7 @@
 ### Hi, I'm [Alexia](https://github.com/alexiabanos/) 👋
 
 - 🎓 I studied Computer Science at Oregon State University.
-- 🔭 My focus is on developing Cloud and Mobile Applications.
+- 🔭 My degree focus is on developing Cloud and Mobile Applications.
 - 🌱 I’m currently working on improving my foundation in Data Structures and Algorithms.
 - ⚡ Fun fact: It is impossible for most people to lick their own elbow. (try it!)
 
